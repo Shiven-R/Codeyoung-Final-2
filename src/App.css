@@ -1,0 +1,50 @@
+.bgimg {
+    background-image: url("https://images.shiksha.com/mediadata/images/articles/1689079450php3qZVMP.jpeg");
+    color: white;
+    background-size: cover;
+    text-align: center;
+    margin: 20px;
+     border-radius: 5px;
+     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.11);
+}
+
+.bgimge{
+    background-image: url("https://thewholeu.uw.edu/wp-content/uploads/yoga-gettyimages-1142820079-promo-copy.jpg");
+    color: white;
+    background-size: cover;
+    text-align: center;
+    margin: 20px;
+     border-radius: 5px;
+     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.11);
+}
+
+.ee {background-color: rgba(0, 0, 0, 0.589);
+margin: 10px;
+padding: 15px;}
+
+.a {color: rgb(0, 168, 56);}
+
+.ae {background-color: rgb(0, 155, 47); color: black; text-align: center;}
+
+.se {color: black;}
+
+img{border-radius: 5px;}
+
+.faq-row {
+    background-color: mediumaquamarine;
+    color: white;
+}
+
+.faq-row-title {
+    color: white;
+}
+
+.faq-container {
+    padding: 20px;
+}
+
+.ff {background-color: rgba(0, 0, 0, 0.781);
+padding: 20px;
+margin: 60px;}
+
+.eeeee {color: white;}
